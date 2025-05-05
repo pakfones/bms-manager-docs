@@ -1,28 +1,45 @@
-CHYBMS Manager Changelog
+# CHYBMS Manager Changelog
 
-All notable changes to CHYBMS Manager, a tool for configuring and managing CHY Battery Management Systems (BMS), are documented here. For more details, visit the Releases page or explore our Documentation.
-[1.0.1] - 2025-05-05
-Added
+All notable changes to **CHYBMS Manager**, a tool for configuring and managing CHY Battery Management Systems (BMS), are documented here.
 
-Support for new CAN protocol for enhanced inverter communication.
+For full release details, visit the [Releases page](#) or explore our [Documentation](#).
 
-Fixed
+---
 
-RS485 connection issues for improved stability.
+## [1.0.1] — 2025-05-05
 
-Improved
+### Added
+- Support for new **CAN protocol** for enhanced inverter communication.
 
-Enhanced logging for better debugging and diagnostics.
+### Fixed
+- **RS485 connection issues** for improved stability.
 
-[1.0.0] - 2025-05-04
-Added
+### Improved
+- Enhanced **logging** for better debugging and diagnostics.
 
-Initial release of CHYBMS Manager.
-Serial communication with BMS devices.
-Basic support for CAN and RS485 protocols.
+---
 
+## [1.0.0] — 2025-05-04
 
-About CHYBMS Manager
-CHYBMS Manager enables users to configure BMS settings, monitor operations, and stay updated with the latest features. Join our community discussions or contact us at support@chybmsmanager.com.
-Contributing
-Have suggestions or found a bug? Submit an issue or share your feedback in our discussions.
+### Added
+- Initial release of **CHYBMS Manager**.
+- Serial communication with BMS devices.
+- Basic support for **CAN** and **RS485** protocols.
+
+---
+
+## About CHYBMS Manager
+
+**CHYBMS Manager** enables users to:
+- Configure BMS settings
+- Monitor operations
+- Stay updated with the latest firmware and protocol features
+
+Join our community discussions or reach out at **[support@chybmsmanager.com](mailto:support@chybmsmanager.com)**.
+
+---
+
+## Contributing
+
+Have suggestions or found a bug?  
+Submit an [issue](#) or share your thoughts in the [discussions](#).
