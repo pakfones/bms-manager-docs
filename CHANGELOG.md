@@ -17,7 +17,6 @@ For full release details, visit the [Releases page](#) or explore our [Documenta
 ### Improved
 - Enhanced **logging** for better debugging and diagnostics.
 
----
 
 ## [1.0.0] — 2025-05-04
 
@@ -26,7 +25,6 @@ For full release details, visit the [Releases page](#) or explore our [Documenta
 - Serial communication with BMS devices.
 - Basic support for **CAN** and **RS485** protocols.
 
----
 
 ## About CHYBMS Manager
 
@@ -35,9 +33,7 @@ For full release details, visit the [Releases page](#) or explore our [Documenta
 - Monitor operations
 - Stay updated with the latest firmware and protocol features
 
-Join our community discussions or reach out at **[support@chybmsmanager.com](mailto:support@chybmsmanager.com)**.
-
----
+Join our community discussions or reach out at **https://github.com/pakfones/bms-manager-docs/discussions**.
 
 ## Contributing
 
