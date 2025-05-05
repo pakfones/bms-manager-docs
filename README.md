@@ -24,7 +24,7 @@
 
    ## Resources
    - **Releases**: [CHYBMS Manager Releases](https://github.com/pakfones/BMS_MANAGER/releases)
-   - **Changelog**: [View Changelog](https://github.com/pakfones/BMS_MANAGER/blob/main/CHANGELOG.md)
+   - **Changelog**: [View Changelog](https://github.com/pakfones/bms-manager-docs/blob/main/CHANGELOG.md)
    - **YouTube**: [Pakfones YouTube](https://www.youtube.com/@Pakfones)
    - **Facebook**: [Pakfones Facebook](https://www.facebook.com/pakfones)
 
