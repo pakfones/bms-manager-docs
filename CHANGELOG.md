@@ -4,7 +4,6 @@ All notable changes to **CHYBMS Manager**, a tool for configuring and managing C
 
 For full release details, visit the [Releases page](#) or explore our [Documentation](#).
 
----
 
 ## [1.0.1] — 2025-05-05
 
