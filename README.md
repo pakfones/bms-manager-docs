@@ -10,7 +10,7 @@
    - Stay updated with the latest software releases.
 
    ## Latest Version
-   See the [Latest released version](/releases/latest) for the latest version and build details.
+   See the [Latest released version](https://github.com/pakfones/bms-manager-docs/releases/latest) for the latest version and build details.
 
    ## Documentation
    Explore our comprehensive documentation in the [Wiki](https://github.com/pakfones/bms-manager-docs/wiki):
