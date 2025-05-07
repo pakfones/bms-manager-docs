@@ -2,6 +2,10 @@
 
    Welcome to the official documentation for **BMS Manager**, a powerful tool for configuring and managing Battery Management Systems (BMS) in the initially release version added support to read & write inverter protocols on the CHY BMS (Battery management sustems).
 
+   If you are looking for **CHY BMS Tool v1.0** you should download BMS Manager latest version from the link below and it can help you to change inverter protocols on BMS of your [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) knon as LiFePO
+   4 batteries
+
+
    ## About BMS Manager
    BMS Manager enables users to:
    - Configure BMS settings via serial port communication.
