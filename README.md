@@ -1,12 +1,11 @@
-# CHYBMS Manager Documentation
+# BMS Manager Documentation
 
-   Welcome to the official documentation for **CHYBMS Manager**, a powerful tool for configuring and managing CHY Battery Management Systems (BMS).
+   Welcome to the official documentation for **BMS Manager**, a powerful tool for configuring and managing Battery Management Systems (BMS) in the initially release version added support to read & write inverter protocols on the CHY BMS (Battery management sustems).
 
-   ## About CHYBMS Manager
-   CHYBMS Manager enables users to:
+   ## About BMS Manager
+   BMS Manager enables users to:
    - Configure BMS settings via serial port communication.
-   - Support CAN and RS485 protocols for inverter communication.
-   - Monitor and log BMS operations.
+   - Support inverter protocol read & write on the CHY BMS hardware.
    - Stay updated with the latest software releases.
 
    ## Latest Version
@@ -22,9 +21,11 @@
    Join our [Discussions](https://github.com/pakfones/bms-manager-docs/discussions) to ask questions, share feedback, or connect with other users.
 
    ## Resources
-   - **Releases**: [CHYBMS Manager Releases](https://github.com/pakfones/bms-manager-docs/releases)
+   - **Releases**: [BMS Manager Releases](https://github.com/pakfones/bms-manager-docs/releases)
    - **Changelog**: [View Changelog](https://github.com/pakfones/bms-manager-docs/blob/main/CHANGELOG.md)
+
+   ## Follow me
    - **YouTube**: [Pakfones YouTube](https://www.youtube.com/@Pakfones)
    - **Facebook**: [Pakfones Facebook](https://www.facebook.com/pakfones)
 
-   Thank you for using CHYBMS Manager!
+   Thank you for using BMS Manager!
