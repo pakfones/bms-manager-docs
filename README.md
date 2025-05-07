@@ -10,20 +10,19 @@
    - Stay updated with the latest software releases.
 
    ## Latest Version
-   See the [Version Information](version.md) for the latest version and build details.
+   See the [Latest released version](/releases/latest) for the latest version and build details.
 
    ## Documentation
    Explore our comprehensive documentation in the [Wiki](https://github.com/pakfones/bms-manager-docs/wiki):
    - [Getting Started](https://github.com/pakfones/bms-manager-docs/wiki/Getting-Started)
    - [Tutorials](https://github.com/pakfones/bms-manager-docs/wiki/Tutorials)
    - [FAQ](https://github.com/pakfones/bms-manager-docs/wiki/FAQ)
-   - [Contact Developer](https://github.com/pakfones/bms-manager-docs/wiki/Contact-Developer)
 
    ## Community
    Join our [Discussions](https://github.com/pakfones/bms-manager-docs/discussions) to ask questions, share feedback, or connect with other users.
 
    ## Resources
-   - **Releases**: [CHYBMS Manager Releases](https://github.com/pakfones/BMS_MANAGER/releases)
+   - **Releases**: [CHYBMS Manager Releases](https://github.com/pakfones/bms-manager-docs/releases)
    - **Changelog**: [View Changelog](https://github.com/pakfones/bms-manager-docs/blob/main/CHANGELOG.md)
    - **YouTube**: [Pakfones YouTube](https://www.youtube.com/@Pakfones)
    - **Facebook**: [Pakfones Facebook](https://www.facebook.com/pakfones)
