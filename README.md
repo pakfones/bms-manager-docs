@@ -13,9 +13,10 @@
    - Stay updated with the latest software releases.
 
    ## Latest Version
-   See the [Latest released version](https://github.com/pakfones/bms-manager-docs/releases/latest) for the latest version and build details. 
+   See the [Latest released version](https://github.com/pakfones/bms-manager-docs/releases/latest) for the latest version and build details.
 
-   Download drivers from from this link [Pl2303 drivers](blob:https://github.com/9c5d7ed2-a7ff-46c3-bb91-3a294c3490ea).
+   Download drivers from this link [PL2303_Drivers.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/PL2303_Drivers.zip).
+
 
    ## Documentation
    Explore our comprehensive documentation in the [Wiki](https://github.com/pakfones/bms-manager-docs/wiki):
