@@ -4,6 +4,10 @@ All notable changes to **CHYBMS Manager**, a tool for configuring and managing C
 
 For full release details, visit the [Releases page](#) or explore our [Documentation](#).
 
+## [1.0.1] — 2025-05-05
+
+### Installer error fixed
+- Fixed looking for source file from project folder "E:\GitHub\BMS_MANAGER\dist\BMSManager.exe" 
 
 ## [1.0.1] — 2025-05-05
 
