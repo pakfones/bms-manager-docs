@@ -7,8 +7,12 @@
 
    ### 🔍 Screenshots
 
-   ![Screenshot 1](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/screenshot1.png)
-   ![Screenshot 2](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/screenshot2.png)
+   ### 🔍 Screenshots
+
+   ![Screenshot 1](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/BMS_Manager_screenshot1.jpg)
+   
+   ![Screenshot 2](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/BMS_Manager_screenshot2.jpg)
+
 
 
 
