@@ -5,7 +5,7 @@
    If you are looking for **CHY BMS Tool v1.0** you should download BMS Manager latest version from the link below and it can help you to change inverter protocols on BMS of your [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) knon as LiFePO
    4 batteries.
 
-   ### Screenshots
+   ### [📷 Screenshots](https://github.com/pakfones/bms-manager-docs/tree/main/Screenshots)
 
    ![Screenshot 1](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/BMS_Manager_screenshot1.jpg)
 
