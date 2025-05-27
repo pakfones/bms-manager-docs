@@ -11,6 +11,7 @@
    ![Screenshot 2](https://github.com/pakfones/bms-manager-docs/raw/main/Screenshots/screenshot2.png)
 
 
+
    ## About BMS Manager
    BMS Manager enables users to:
    - Configure BMS settings via serial port communication.
