@@ -23,7 +23,11 @@
    ## Latest Version
    See the [Latest released version](https://github.com/pakfones/bms-manager-docs/releases/latest) for the latest version and build details.
 
-   Download drivers from this link [PL2303_Drivers.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/PL2303_Drivers.zip).
+   ## Drivers
+
+   [PL2303_Drivers.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/PL2303_Drivers.zip).
+
+   [CP210x_Universal_Windows_Driver.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/CP210x_Universal_Windows_Driver.zip).
 
 
    ## Documentation
