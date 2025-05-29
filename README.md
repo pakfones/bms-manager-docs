@@ -25,9 +25,11 @@
 
    ## Drivers
 
-   [PL2303_Drivers.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/PL2303_Drivers.zip).
+   [PL2303_Drivers](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/PL2303_Drivers.zip).
 
-   [CP210x_Universal_Windows_Driver.zip](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/CP210x_Universal_Windows_Driver.zip).
+   [CP210x_Universal_Windows_Driver](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/CP210x_Universal_Windows_Driver.zip).
+   
+   [CH340/CH341_Drivers](https://github.com/pakfones/bms-manager-docs/raw/main/Drivers/CH341SER.ZIP).
 
 
    ## Documentation
